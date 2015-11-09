@@ -1,2 +1,2 @@
 # datasciencecoursera
-Assigment Repository For John Hopkin's R Course
+Assigment Repository For Johns Hopkins R Course
